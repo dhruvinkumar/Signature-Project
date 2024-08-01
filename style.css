@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+.signature{
+    display: flex;
+    padding: auto;
+    align-items: center;
+    justify-content: center;    
+}
+
+#myCanvas{
+    border: 2px solid black;
+}
+
+.buttons{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 25px;
+    margin-left: 800px;
+}
